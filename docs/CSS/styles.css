@@ -112,4 +112,26 @@ table table td {
   border: none;
 }
 
+.resized-img {
+  max-width: 100%;
+  height: auto;
+  width: 600px; 
+  display: block; 
+  margin: 50px auto; 
+}
+
+.image-container {
+  display: flex;
+  gap: 10px; 
+  justify-content: center; 
+}
+
+.image-container img {
+  width: 400px;
+  height: auto;
+}
+
+
+
+
 

@@ -7,4 +7,7 @@ This is my personal website created to document and showcase everything I have l
 - Created the about.html file.
 - Created the contact.html file.
 - Created the net.html file.
+- Created the topic.html file.
 - Added the styles.css file to the web.
+- Created the degree.html file.
+

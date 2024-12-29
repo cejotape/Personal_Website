@@ -77,7 +77,6 @@ form button:hover {
   background-color: #555;
 }
 
-/* Table Styling */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -100,7 +99,6 @@ table tr:nth-child(even) {
   background-color: #f9f9f9;
 }
 
-/* Nested Table Styling */
 table table {
   width: 100%;
   margin: 0;
